@@ -1,8 +1,9 @@
 const canvas = document.querySelector('canvas');
 const generateButton = document.querySelector('.generate-tree-button');
 canvas.width = window.innerWidth;
-canvas.height = window.innerHeight;
+canvas.height = window.innerHeight *1.5;
 const ctx = canvas.getContext('2d');
+
 let curve = 10;
 let curve2 = 0;
 function drawTree(startX, startY, len, angle, branchWidth, color1, color2) {
@@ -25,7 +26,7 @@ function drawTree(startX, startY, len, angle, branchWidth, color1, color2) {
         ctx.bezierCurveTo(curve2, -len/2, -curve2, -len/2, 0, -len);
     }
     ctx.stroke();
-    if (len < 7) {
+    if (len < 5) {
         ctx.beginPath();
         ctx.arc(0, -len, 10, 0, Math.PI/2);
         ctx.fill();
