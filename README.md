@@ -1,2 +1,2 @@
 
-#Generative Art Using HTML CSS AND JAVASCRIPT
+## Generative Art Using HTML CSS AND JAVASCRIPT
