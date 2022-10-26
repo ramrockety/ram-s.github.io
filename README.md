@@ -4,7 +4,7 @@
 ### Pre Requisites
 * HTML, CSS
 * JAVASCRIPT
-*RECURSION
+* RECURSION
 * BEZIER CURVE
 * FRACTAL GEOMETRY
 ### Project Screenshots
