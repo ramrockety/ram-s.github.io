@@ -1,4 +1,3 @@
-// alert('Click on the Generate Random Tree button to get different trees with different colors and shapes');
 const canvas = document.querySelector('canvas');
 const generateButton = document.querySelector('.generate-tree-button');
 canvas.width = window.innerWidth;
