@@ -8,7 +8,6 @@
 * BEZIER CURVE
 * FRACTAL GEOMETRY
 ### Project Screenshots
-Click on the **Generate Random Tree** button to generate different Tree shapes with different colours.
 ![image](https://user-images.githubusercontent.com/36239904/198099556-038d2735-e856-4c45-a9cd-84f8a5460e02.png)
 ![image](https://user-images.githubusercontent.com/36239904/198099679-d091343a-ce38-477a-9204-d0cf2dee9ad3.png)
 ![image](https://user-images.githubusercontent.com/36239904/198099762-48b825f8-dd37-4eb2-8af4-86975ce19578.png)
