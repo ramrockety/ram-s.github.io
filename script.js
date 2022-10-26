@@ -25,7 +25,7 @@ function drawTree(startX, startY, len, angle, branchWidth, color1, color2) {
         ctx.bezierCurveTo(curve2, -len/2, -curve2, -len/2, 0, -len);
     }
     ctx.stroke();
-    if (len < 5) {
+    if (len < 7) {
         ctx.beginPath();
         ctx.arc(0, -len, 10, 0, Math.PI/2);
         ctx.fill();
