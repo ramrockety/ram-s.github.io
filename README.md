@@ -1,6 +1,6 @@
 
-## Generative Art Using HTML CSS AND JAVASCRIPT
- **Note**: *This project is desktop, laptop and tablet compatible and there is little bit canvas width overlapping with mobile devices.* 
+## Generative Art Using HTML, CSS AND JAVASCRIPT
+ **Note**: *This project is desktop, laptop and tablet compatible and there is a little bit canvas width overlapping with mobile devices which will be fixed in future.* 
 ### Pre Requisites
 * HTML, CSS
 * JAVASCRIPT
